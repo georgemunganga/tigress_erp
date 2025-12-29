@@ -1,0 +1,210 @@
+[2025-04-27 17:53:44 +0000] [16374] [INFO] Starting gunicorn 23.0.0
+[2025-04-27 17:53:44 +0000] [16374] [INFO] Listening at: http://127.0.0.1:8000 (16374)
+[2025-04-27 17:53:44 +0000] [16374] [INFO] Using worker: sync
+[2025-04-27 17:53:44 +0000] [16415] [INFO] Booting worker with pid: 16415
+[2025-04-27 17:53:44 +0000] [16416] [INFO] Booting worker with pid: 16416
+[2025-04-27 17:53:44 +0000] [16417] [INFO] Booting worker with pid: 16417
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+[2025-04-27 18:35:20 +0000] [16374] [INFO] Handling signal: term
+[2025-04-27 18:35:20 +0000] [16416] [INFO] Worker exiting (pid: 16416)
+[2025-04-27 18:35:20 +0000] [16415] [INFO] Worker exiting (pid: 16415)
+[2025-04-27 18:35:20 +0000] [16417] [INFO] Worker exiting (pid: 16417)
+[2025-04-27 18:35:21 +0000] [16374] [INFO] Shutting down: Master
+[2025-04-27 18:35:24 +0000] [18369] [INFO] Starting gunicorn 23.0.0
+[2025-04-27 18:35:24 +0000] [18369] [INFO] Listening at: http://127.0.0.1:8000 (18369)
+[2025-04-27 18:35:24 +0000] [18369] [INFO] Using worker: sync
+[2025-04-27 18:35:24 +0000] [18384] [INFO] Booting worker with pid: 18384
+[2025-04-27 18:35:24 +0000] [18387] [INFO] Booting worker with pid: 18387
+[2025-04-27 18:35:24 +0000] [18388] [INFO] Booting worker with pid: 18388
+[2025-04-27 18:40:31 +0000] [18369] [INFO] Handling signal: term
+[2025-04-27 18:40:31 +0000] [18384] [INFO] Worker exiting (pid: 18384)
+[2025-04-27 18:40:31 +0000] [18388] [INFO] Worker exiting (pid: 18388)
+[2025-04-27 18:40:31 +0000] [18387] [INFO] Worker exiting (pid: 18387)
+[2025-04-27 18:40:32 +0000] [18369] [INFO] Shutting down: Master
+[2025-04-27 18:40:34 +0000] [18461] [INFO] Starting gunicorn 23.0.0
+[2025-04-27 18:40:34 +0000] [18461] [INFO] Listening at: http://127.0.0.1:8000 (18461)
+[2025-04-27 18:40:34 +0000] [18461] [INFO] Using worker: sync
+[2025-04-27 18:40:34 +0000] [18479] [INFO] Booting worker with pid: 18479
+[2025-04-27 18:40:34 +0000] [18480] [INFO] Booting worker with pid: 18480
+[2025-04-27 18:40:34 +0000] [18481] [INFO] Booting worker with pid: 18481
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a
+[2025-04-30 05:23:33 +0000] [18480] [WARNING] Invalid request from ip=127.0.0.1: limit request headers fields size
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+[2025-05-09 12:34:47 +0000] [18461] [INFO] Handling signal: term
+[2025-05-09 12:34:47 +0000] [18481] [INFO] Worker exiting (pid: 18481)
+[2025-05-09 12:34:47 +0000] [18480] [INFO] Worker exiting (pid: 18480)
+[2025-05-09 12:34:47 +0000] [18479] [INFO] Worker exiting (pid: 18479)
+[2025-05-09 12:34:49 +0000] [18461] [INFO] Shutting down: Master
+[2025-05-09 12:34:54 +0000] [111247] [INFO] Starting gunicorn 23.0.0
+[2025-05-09 12:34:54 +0000] [111247] [INFO] Listening at: http://127.0.0.1:8000 (111247)
+[2025-05-09 12:34:54 +0000] [111247] [INFO] Using worker: sync
+[2025-05-09 12:34:54 +0000] [111268] [INFO] Booting worker with pid: 111268
+[2025-05-09 12:34:54 +0000] [111269] [INFO] Booting worker with pid: 111269
+[2025-05-09 12:34:54 +0000] [111270] [INFO] Booting worker with pid: 111270
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+ERROR	Property: Invalid value for "CSS Level 2.1" property: var(--gray-900) [14:3: color]
+WARNING	Property: Unknown Property name. [64:2: word-wrap]
+WARNING	Property: Unknown Property name. [83:2: columns]
+WARNING	Property: Unknown Property name. [90:2: background-size]
+WARNING	Property: Unknown Property name. [98:2: object-fit]
+WARNING	Property: Unknown Property name. [110:2: -webkit-print-color-adjust]
+WARNING	Property: Unknown Property name. [158:2: word-break]
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+[2025-05-10 22:44:16 +0000] [111247] [INFO] Handling signal: term
+[2025-05-10 22:44:16 +0000] [111270] [INFO] Worker exiting (pid: 111270)
+[2025-05-10 22:44:16 +0000] [111268] [INFO] Worker exiting (pid: 111268)
+[2025-05-10 22:44:16 +0000] [111269] [INFO] Worker exiting (pid: 111269)
+[2025-05-10 22:44:17 +0000] [111247] [INFO] Shutting down: Master
+[2025-05-10 22:44:20 +0000] [121369] [INFO] Starting gunicorn 23.0.0
+[2025-05-10 22:44:20 +0000] [121369] [INFO] Listening at: http://127.0.0.1:8000 (121369)
+[2025-05-10 22:44:20 +0000] [121369] [INFO] Using worker: sync
+[2025-05-10 22:44:20 +0000] [121383] [INFO] Booting worker with pid: 121383
+[2025-05-10 22:44:20 +0000] [121384] [INFO] Booting worker with pid: 121384
+[2025-05-10 22:44:20 +0000] [121385] [INFO] Booting worker with pid: 121385
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+ERROR	PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#0000001a', 1, 3215)
+ERROR	PropertyValue: Unknown syntax or no value: 0 3px 6px #0000001a
+ERROR	CSSStyleDeclaration: Syntax Error in Property: box-shadow:0 3px 6px #0000001a
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+/home/tigress/frappe-bench/env/lib/python3.12/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+ERROR	Property: Invalid value for "CSS Level 2.1" property: var(--gray-900) [13:3: color]
+WARNING	Property: Unknown Property name. [63:2: word-wrap]
+WARNING	Property: Unknown Property name. [82:2: columns]
+WARNING	Property: Unknown Property name. [89:2: background-size]
+WARNING	Property: Unknown Property name. [97:2: object-fit]
+WARNING	Property: Unknown Property name. [109:2: -webkit-print-color-adjust]
+WARNING	Property: Unknown Property name. [157:2: word-break]
+[2025-05-20 10:38:22 +0000] [121369] [INFO] Handling signal: term
+[2025-05-20 10:38:22 +0000] [121385] [INFO] Worker exiting (pid: 121385)
+[2025-05-20 10:38:22 +0000] [121384] [INFO] Worker exiting (pid: 121384)
+[2025-05-20 10:38:22 +0000] [121383] [INFO] Worker exiting (pid: 121383)
+[2025-05-20 10:38:26 +0000] [121369] [INFO] Shutting down: Master
+[2025-05-20 10:38:30 +0000] [194966] [INFO] Starting gunicorn 23.0.0
+[2025-05-20 10:38:30 +0000] [194966] [INFO] Listening at: http://127.0.0.1:8000 (194966)
+[2025-05-20 10:38:30 +0000] [194966] [INFO] Using worker: sync
+[2025-05-20 10:38:30 +0000] [194980] [INFO] Booting worker with pid: 194980
+[2025-05-20 10:38:30 +0000] [194981] [INFO] Booting worker with pid: 194981
+[2025-05-20 10:38:30 +0000] [194982] [INFO] Booting worker with pid: 194982
+[2025-06-11 06:11:53 +0000] [194966] [INFO] Handling signal: term
+[2025-06-11 06:11:53 +0000] [194982] [INFO] Worker exiting (pid: 194982)
+[2025-06-11 06:11:53 +0000] [194980] [INFO] Worker exiting (pid: 194980)
+[2025-06-11 06:11:53 +0000] [194981] [INFO] Worker exiting (pid: 194981)
+[2025-06-11 06:11:58 +0000] [194966] [INFO] Shutting down: Master
+[2025-06-11 06:12:16 +0000] [360965] [INFO] Starting gunicorn 23.0.0
+[2025-06-11 06:12:16 +0000] [360965] [INFO] Listening at: http://127.0.0.1:8000 (360965)
+[2025-06-11 06:12:16 +0000] [360965] [INFO] Using worker: sync
+[2025-06-11 06:12:16 +0000] [361342] [INFO] Booting worker with pid: 361342
+[2025-06-11 06:12:16 +0000] [361343] [INFO] Booting worker with pid: 361343
+[2025-06-11 06:12:17 +0000] [361345] [INFO] Booting worker with pid: 361345
+[2025-06-17 06:20:31 +0000] [360965] [INFO] Handling signal: term
+[2025-06-17 06:20:31 +0000] [361343] [INFO] Worker exiting (pid: 361343)
+[2025-06-17 06:20:31 +0000] [361345] [INFO] Worker exiting (pid: 361345)
+[2025-06-17 06:20:32 +0000] [361342] [INFO] Worker exiting (pid: 361342)
+[2025-06-17 06:20:34 +0000] [360965] [INFO] Shutting down: Master
+[2025-06-17 06:20:51 +0000] [406177] [INFO] Starting gunicorn 23.0.0
+[2025-06-17 06:20:51 +0000] [406177] [INFO] Listening at: http://127.0.0.1:8000 (406177)
+[2025-06-17 06:20:51 +0000] [406177] [INFO] Using worker: sync
+[2025-06-17 06:20:51 +0000] [406341] [INFO] Booting worker with pid: 406341
+[2025-06-17 06:20:51 +0000] [406342] [INFO] Booting worker with pid: 406342
+[2025-06-17 06:20:51 +0000] [406343] [INFO] Booting worker with pid: 406343
+[2025-06-21 06:21:01 +0000] [406177] [INFO] Handling signal: term
+[2025-06-21 06:21:01 +0000] [406342] [INFO] Worker exiting (pid: 406342)
+[2025-06-21 06:21:01 +0000] [406341] [INFO] Worker exiting (pid: 406341)
+[2025-06-21 06:21:01 +0000] [406343] [INFO] Worker exiting (pid: 406343)
+[2025-06-21 06:21:03 +0000] [406177] [INFO] Shutting down: Master
+[2025-06-21 06:21:25 +0000] [437227] [INFO] Starting gunicorn 23.0.0
+[2025-06-21 06:21:25 +0000] [437227] [INFO] Listening at: http://127.0.0.1:8000 (437227)
+[2025-06-21 06:21:25 +0000] [437227] [INFO] Using worker: sync
+[2025-06-21 06:21:25 +0000] [437322] [INFO] Booting worker with pid: 437322
+[2025-06-21 06:21:25 +0000] [437323] [INFO] Booting worker with pid: 437323
+[2025-06-21 06:21:25 +0000] [437324] [INFO] Booting worker with pid: 437324
+[2025-07-16 06:29:01 +0000] [437227] [INFO] Handling signal: term
+[2025-07-16 06:29:01 +0000] [437322] [INFO] Worker exiting (pid: 437322)
+[2025-07-16 06:29:01 +0000] [437324] [INFO] Worker exiting (pid: 437324)
+[2025-07-16 06:29:01 +0000] [437323] [INFO] Worker exiting (pid: 437323)
+[2025-07-16 06:29:06 +0000] [437227] [INFO] Shutting down: Master
+[2025-07-16 06:29:26 +0000] [630907] [INFO] Starting gunicorn 23.0.0
+[2025-07-16 06:29:26 +0000] [630907] [INFO] Listening at: http://127.0.0.1:8000 (630907)
+[2025-07-16 06:29:26 +0000] [630907] [INFO] Using worker: sync
+[2025-07-16 06:29:26 +0000] [631240] [INFO] Booting worker with pid: 631240
+[2025-07-16 06:29:26 +0000] [631241] [INFO] Booting worker with pid: 631241
+[2025-07-16 06:29:26 +0000] [631242] [INFO] Booting worker with pid: 631242
+[2025-08-18 11:14:18 +0000] [983] [INFO] Starting gunicorn 23.0.0
+[2025-08-18 11:14:18 +0000] [983] [INFO] Listening at: http://127.0.0.1:8000 (983)
+[2025-08-18 11:14:18 +0000] [983] [INFO] Using worker: sync
+[2025-08-18 11:14:18 +0000] [1628] [INFO] Booting worker with pid: 1628
+[2025-08-18 11:14:18 +0000] [1629] [INFO] Booting worker with pid: 1629
+[2025-08-18 11:14:18 +0000] [1630] [INFO] Booting worker with pid: 1630
+[2025-08-22 06:29:11 +0000] [983] [INFO] Handling signal: term
+[2025-08-22 06:29:11 +0000] [1630] [INFO] Worker exiting (pid: 1630)
+[2025-08-22 06:29:11 +0000] [1628] [INFO] Worker exiting (pid: 1628)
+[2025-08-22 06:29:11 +0000] [1629] [INFO] Worker exiting (pid: 1629)
+[2025-08-22 06:29:20 +0000] [983] [INFO] Shutting down: Master
+[2025-08-22 06:29:40 +0000] [36007] [INFO] Starting gunicorn 23.0.0
+[2025-08-22 06:29:40 +0000] [36007] [INFO] Listening at: http://127.0.0.1:8000 (36007)
+[2025-08-22 06:29:40 +0000] [36007] [INFO] Using worker: sync
+[2025-08-22 06:29:40 +0000] [36037] [INFO] Booting worker with pid: 36037
+[2025-08-22 06:29:40 +0000] [36038] [INFO] Booting worker with pid: 36038
+[2025-08-22 06:29:40 +0000] [36039] [INFO] Booting worker with pid: 36039
+[2025-09-23 06:20:31 +0000] [36007] [INFO] Handling signal: term
+[2025-09-23 06:20:31 +0000] [36039] [INFO] Worker exiting (pid: 36039)
+[2025-09-23 06:20:31 +0000] [36037] [INFO] Worker exiting (pid: 36037)
+[2025-09-23 06:20:31 +0000] [36038] [INFO] Worker exiting (pid: 36038)
+[2025-09-23 06:20:42 +0000] [36007] [INFO] Shutting down: Master
+[2025-09-23 06:21:01 +0000] [284418] [INFO] Starting gunicorn 23.0.0
+[2025-09-23 06:21:01 +0000] [284418] [INFO] Listening at: http://127.0.0.1:8000 (284418)
+[2025-09-23 06:21:01 +0000] [284418] [INFO] Using worker: sync
+[2025-09-23 06:21:01 +0000] [284448] [INFO] Booting worker with pid: 284448
+[2025-09-23 06:21:01 +0000] [284449] [INFO] Booting worker with pid: 284449
+[2025-09-23 06:21:01 +0000] [284450] [INFO] Booting worker with pid: 284450
+[2025-10-02 06:23:14 +0000] [284418] [INFO] Handling signal: term
+[2025-10-02 06:23:14 +0000] [284448] [INFO] Worker exiting (pid: 284448)
+[2025-10-02 06:23:14 +0000] [284449] [INFO] Worker exiting (pid: 284449)
+[2025-10-02 06:23:14 +0000] [284450] [INFO] Worker exiting (pid: 284450)
+[2025-10-02 06:23:24 +0000] [284418] [INFO] Shutting down: Master
+[2025-10-02 06:23:44 +0000] [360701] [INFO] Starting gunicorn 23.0.0
+[2025-10-02 06:23:44 +0000] [360701] [INFO] Listening at: http://127.0.0.1:8000 (360701)
+[2025-10-02 06:23:44 +0000] [360701] [INFO] Using worker: sync
+[2025-10-02 06:23:44 +0000] [360731] [INFO] Booting worker with pid: 360731
+[2025-10-02 06:23:44 +0000] [360732] [INFO] Booting worker with pid: 360732
+[2025-10-02 06:23:44 +0000] [360733] [INFO] Booting worker with pid: 360733
+[2025-10-16 06:02:15 +0000] [360701] [INFO] Handling signal: term
+[2025-10-16 06:02:16 +0000] [360733] [INFO] Worker exiting (pid: 360733)
+[2025-10-16 06:02:16 +0000] [360732] [INFO] Worker exiting (pid: 360732)
+[2025-10-16 06:02:16 +0000] [360731] [INFO] Worker exiting (pid: 360731)
+[2025-10-16 06:02:25 +0000] [360701] [INFO] Shutting down: Master
+[2025-10-16 06:02:51 +0000] [465839] [INFO] Starting gunicorn 23.0.0
+[2025-10-16 06:02:51 +0000] [465839] [INFO] Listening at: http://127.0.0.1:8000 (465839)
+[2025-10-16 06:02:51 +0000] [465839] [INFO] Using worker: sync
+[2025-10-16 06:02:51 +0000] [465923] [INFO] Booting worker with pid: 465923
+[2025-10-16 06:02:51 +0000] [465924] [INFO] Booting worker with pid: 465924
+[2025-10-16 06:02:51 +0000] [465925] [INFO] Booting worker with pid: 465925
+[2025-11-25 06:05:48 +0000] [465839] [INFO] Handling signal: term
+[2025-11-25 06:05:49 +0000] [465925] [INFO] Worker exiting (pid: 465925)
+[2025-11-25 06:05:49 +0000] [465923] [INFO] Worker exiting (pid: 465923)
+[2025-11-25 06:05:49 +0000] [465924] [INFO] Worker exiting (pid: 465924)
+[2025-11-25 06:05:54 +0000] [465839] [INFO] Shutting down: Master
+[2025-11-25 06:06:18 +0000] [793381] [INFO] Starting gunicorn 23.0.0
+[2025-11-25 06:06:18 +0000] [793381] [INFO] Listening at: http://127.0.0.1:8000 (793381)
+[2025-11-25 06:06:18 +0000] [793381] [INFO] Using worker: sync
+[2025-11-25 06:06:18 +0000] [793412] [INFO] Booting worker with pid: 793412
+[2025-11-25 06:06:18 +0000] [793413] [INFO] Booting worker with pid: 793413
+[2025-11-25 06:06:18 +0000] [793414] [INFO] Booting worker with pid: 793414
